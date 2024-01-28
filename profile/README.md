@@ -46,3 +46,130 @@ We have very capable software and firmware development, QA and technical support
   - Custom RSS reader application. iPhone, iPad (objective C)
   - Certificate based user authentication and policy enforcement application. iPhone (objective C)
   - A set of applications for user authentication and secure communication with web servers. Android (Java/C)
+
+## <i> Partners </i>
+<hr>
+<p>
+  <img src="https://images.squarespace-cdn.com/content/v1/55fb0e67e4b00683790e9d18/1568771261767-5V70GWJ5MPE5Z9RBIPQR/Cylink+Logo?format=2500w" alt="Logo" height="120" />
+</p>
+
+### Cylink Corporation
+<p> Headquartered in Santa Clara, California, Cylink develops, markets, and supports a comprehensive portfolio of hardware and software security products for mission-critical private networks and business communications over the Internet. The company's solutions offer competitive advantages by lowering the cost of deploying and managing secure, reliable private networks, while enabling the use of the Internet for trusted transactions with business partners and customers. </p>
+
+www.cylink.com
+
+<hr>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SafeNet_logo.svg/1920px-SafeNet_logo.svg.png" alt="Logo" height="100" />
+</p>
+
+### SafeNet, Inc.
+
+SafeNet has set the industry standard for virtual private network (VPN) technology and secure business communications. With more than 18 years experience in developing, deploying, and managing network security systems for the most security-conscious financial institutions and government organizations around the world, SafeNet's proven technology has emerged as the de facto industry standard for VPNs. With SafeNet securing the infrastructure of today's e-business communications as well as leading the way in government Homeland and classified data security, the company has opened new markets for interoperable, secure, and deployable VPN communications. Commercial customers include Texas Instruments, Microsoft, Samsung, Centillium Communications, ARM, and Cisco Systems. Government customers include U.S. Department of Defense, U.S. Internal Revenue Service, and the Social Security Administration.
+
+www.safenet-inc.com
+
+<hr>
+
+<p>
+  <img src="https://www.hylink.am/images/validitylogo.gif" alt="Logo" height="150" />
+</p>
+
+### Validity Sensors, Inc.
+
+Headquartered in San Jose, California, with facilities in Phoenix, Arizona and Boxborough, Massachusetts, Validity Sensors, Inc. is a provider of the world's most durable, high performance finger print sensors for the PC & Networking, Wireless, Portable Storage and Access Control markets.
+
+Validity's biometric security products enable a wide range of product enhancements across numerous market segments including password replacement for PCs and applications, centralized management for corporate network security, secure mobile transactions, protection of portable data, identity verification for government and military applications and physical access control.
+
+www.validitysensors.com
+
+<hr>
+
+<p>
+  <img src="http://www.sevannetworks.com/images/SevanLogo_115x46.gif" alt="Logo" height="50" />
+</p>
+
+### Sevan Networks
+
+Sevan Networks, Inc. is an innovative provider of web security solutions. Our product integrates strong security directly into the Web to reduce the security risks of web applications. It is good security and it is simple.
+
+www.sevannetworks.com
+
+<hr>
+
+<p>
+  <img src="https://www.hylink.am/images/trisalogo.gif" alt="Logo" height="90" />
+</p>
+
+### TRIiS Solution
+(former OmniTrust Inc.,
+former Probix)
+
+www.crearia.co.jp
+
+<hr>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Phoenix_Technologies_logo.svg/1920px-Phoenix_Technologies_logo.svg.png" alt="Logo" height="100" />
+</p>
+
+### Phoenix Technologies
+
+Phoenix Technologies builds world-class core system software platforms, tools and applications that take full advantage of our history of expertise at the core of digital devices, to enable the broadest set of users a more simple, trusted and reliable experience.
+
+www.phoenix.com
+
+<hr>
+
+<p>
+  <img src="https://www.hylink.am/images/wavewireless.gif" alt="Logo" height="35" />
+</p>
+
+### WaveWireless Inc.
+(former P-COM)
+
+Wave Wireless (formerly P-Com) sells wireless distribution equipment used in the point-to-point, point-to-multipoint, and mesh wireless networks of telecom companies, corporations, and government entities. Its SPEEDLAN line of mesh routers (acquired from SPEEDCOM in 2003) constitutes its main product offering, following a 2005 restructuring that included discontinuing its wireless backhaul equipment lines.
+
+<hr>
+
+<p>
+  <img src="https://www.hylink.am/images/noknok.png" alt="Logo" height="100" />
+</p>
+
+### Nok Nok Labs
+Nok Nok Labs is backed by veterans of the security industry from PGP, Netscape, PayPal & Phoenix and have deep experience in building Internet scale security protocols and products. Based in Palo Alto, CA, the company was founded in November 2011 to unify the silos that plague current online authentication technologies.
+
+www.noknok.com
+
+<hr>
+
+<p>
+  <img src="https://www.hylink.am/images/idex.png" alt="Logo" height="75" />
+</p>
+
+### IDEX
+IDEX ASA (ticker IDEX) is a Norwegian public company listed at the Oslo Axess market place on the Oslo Børs (Oslo stock exchange). IDEX ASA specialises in fingerprint imaging and recognition technology. The company has a strong patent portfolio consisting of more than 25 patent families including more than 215 granted patents, as well as cross licenses with Apple.
+
+www.idex.no
+
+<hr>
+
+<p>
+  <img src="https://www.hylink.am/images/digitaltrust.png" alt="Logo" height="75" />
+</p>
+
+### Digital Trust Networks, Inc
+Digital Trust Networks is a digital world firm that offers a paradigm for identity and authentication.
+
+https://www.digitaltrustnetworks.com/
+
+## Contact
+
+24a Marshal Baghramian Ave. <br>
+Yerevan, 0019 <br>
+Republic of Armenia <br>
+ 	 
+Phone:	+(374-10) 521-664 ext. 2231, +(374-10) 519-148 ext. 2231 <br>
+Fax:	  +(374-10) 526-637 <br>
+E-mail:	info@hylink.am <br>
